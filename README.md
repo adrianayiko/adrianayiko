@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/adrian-mark-ayiko-198b65259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-mark-ayiko-198b65259/" height="30" width="40" /></a>
 </p>
 
-![My stats](https://github-readme-stats.vercel.app/api?username=bjjumba)
+![My stats](https://github-readme-stats.vercel.app/api?username=adrianayiko)
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjjumba&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bjjumba"/></td></tr></table>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianayiko&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianayiko"/></td></tr></table>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,7 @@
 
 <h3>GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bjjumba&theme=gruvbox)](https://github.com/bjjumba/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adrianayiko&theme=gruvbox)](https://github.com/adrianayiko/github-profile-trophy)
 
 
 

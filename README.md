@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayiko Mark Adrian</h1>
-<h3 align="center">A passionate Fullstack developer from Uganda</h3>
+<h3 align="center">A passionate software developer from Uganda</h3>
 
 
 - 🌱 I’m currently learning **Python, C++ with Embedded-Systems**

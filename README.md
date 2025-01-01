@@ -2,7 +2,8 @@
 <h3 align="center">An aspiring passionate software developer from Uganda</h3>
 
 
-- 🌱 I’m currently learning **Python Backend Micro Services**
+- 🌱 I’m currently learning **Python Backend Micro Services and also C# to improve my skill set 
+c# because it is has a wide  range of capabilities to accomplish many tasks with .Net framework**
 
 - 📫 How to reach me **ayikoadrian4@gmail.com**
 

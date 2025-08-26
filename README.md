@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayiko Mark Adrian</h1>
-<h3 align="center">A software Engineer from Uganda</h3>
+<h3 align="center">A software Engineer from Uganda working with SYBYL limited</h3>
 
 
 - 🌱 I’m currently learning **C# to improve my skill set 

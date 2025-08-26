@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayiko Mark Adrian</h1>
-<h3 align="center">An aspiring passionate software developer from Uganda</h3>
+<h3 align="center">A software Engineer from Uganda</h3>
 
 
-- 🌱 I’m currently learning **Python Backend Micro Services and also C# to improve my skill set 
+- 🌱 I’m currently learning **C# to improve my skill set 
 c# because it is has a wide  range of capabilities to accomplish many tasks with .Net framework**
 
 - 📫 How to reach me **ayikoadrian4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adrian-mark-ayiko-198b65259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-mark-ayiko-198b65259/" height="30" width="40" /></a>
+<!--<a href="https://www.linkedin.com/in/adrian-mark-ayiko-198b65259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-mark-ayiko-198b65259/" height="30" width="40" /></a>-->
 </p>
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=adrianayiko)
